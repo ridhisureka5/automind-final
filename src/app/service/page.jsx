@@ -16,9 +16,7 @@ const API = process.env.NEXT_PUBLIC_API || "https://automind-backend-40d5.onrend
 
 export default function Home() {
 
-  const [dashboard,setDashboard]=useState(null);
-  const [alerts,setAlerts]=useState([]);
-  const [services,setServices]=useState([]);
+
 
   useEffect(()=>{
 
