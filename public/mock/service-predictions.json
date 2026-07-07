@@ -1,0 +1,40 @@
+{
+  "services": [
+    {
+      "car_name": "Hyundai Venue 2023",
+      "vin": "VIN-HY-006",
+      "city": "Delhi",
+      "tag": "Scheduled"
+    },
+    {
+      "car_name": "Tata Harrier",
+      "vin": "VIN-TA-007",
+      "city": "Mumbai",
+      "tag": "Upcoming"
+    },
+    {
+      "car_name": "Mahindra Scorpio N",
+      "vin": "VIN-MA-008",
+      "city": "Bangalore",
+      "tag": "AI Predicted"
+    },
+    {
+      "car_name": "Honda City 2024",
+      "vin": "VIN-HO-009",
+      "city": "Pune",
+      "tag": "Scheduled"
+    },
+    {
+      "car_name": "MG Hector",
+      "vin": "VIN-MG-010",
+      "city": "Hyderabad",
+      "tag": "Upcoming"
+    },
+    {
+      "car_name": "Volkswagen Virtus",
+      "vin": "VIN-VW-011",
+      "city": "Chennai",
+      "tag": "AI Predicted"
+    }
+  ]
+}

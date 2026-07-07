@@ -1,0 +1,210 @@
+{
+  "cars": [
+    {
+      "car_id": "CAR001",
+      "car_name": "Hyundai Creta 2024",
+      "company": "Hyundai",
+      "resolved": 5,
+      "avg_resolution": "3.8d",
+      "components": [
+        { "name": "Engine", "minor": 3, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Transmission", "minor": 2, "moderate": 1, "major": 0, "critical": 0 },
+        { "name": "Brakes", "minor": 4, "moderate": 3, "major": 1, "critical": 0 },
+        { "name": "Electrical", "minor": 5, "moderate": 2, "major": 1, "critical": 1 }
+      ]
+    },
+    {
+      "car_id": "CAR002",
+      "car_name": "Hyundai Venue 2023",
+      "company": "Hyundai",
+      "resolved": 4,
+      "avg_resolution": "4.0d",
+      "components": [
+        { "name": "Engine", "minor": 2, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Transmission", "minor": 1, "moderate": 1, "major": 0, "critical": 0 },
+        { "name": "Brakes", "minor": 3, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Electrical", "minor": 4, "moderate": 3, "major": 1, "critical": 0 }
+      ]
+    },
+
+    {
+      "car_id": "CAR003",
+      "car_name": "Tata Nexon 2023",
+      "company": "Tata",
+      "resolved": 3,
+      "avg_resolution": "4.5d",
+      "components": [
+        { "name": "Engine", "minor": 2, "moderate": 3, "major": 2, "critical": 1 },
+        { "name": "Transmission", "minor": 1, "moderate": 1, "major": 1, "critical": 0 },
+        { "name": "Brakes", "minor": 3, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Electrical", "minor": 6, "moderate": 4, "major": 2, "critical": 1 }
+      ]
+    },
+    {
+      "car_id": "CAR004",
+      "car_name": "Tata Harrier",
+      "company": "Tata",
+      "resolved": 5,
+      "avg_resolution": "3.9d",
+      "components": [
+        { "name": "Engine", "minor": 3, "moderate": 2, "major": 2, "critical": 1 },
+        { "name": "Transmission", "minor": 2, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Brakes", "minor": 4, "moderate": 3, "major": 1, "critical": 0 },
+        { "name": "Electrical", "minor": 5, "moderate": 3, "major": 2, "critical": 1 }
+      ]
+    },
+
+    {
+      "car_id": "CAR005",
+      "car_name": "Mahindra XUV700",
+      "company": "Mahindra",
+      "resolved": 6,
+      "avg_resolution": "3.2d",
+      "components": [
+        { "name": "Engine", "minor": 4, "moderate": 1, "major": 0, "critical": 0 },
+        { "name": "Transmission", "minor": 2, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Brakes", "minor": 5, "moderate": 3, "major": 1, "critical": 0 },
+        { "name": "Electrical", "minor": 3, "moderate": 2, "major": 1, "critical": 0 }
+      ]
+    },
+    {
+      "car_id": "CAR006",
+      "car_name": "Mahindra Scorpio N",
+      "company": "Mahindra",
+      "resolved": 4,
+      "avg_resolution": "4.3d",
+      "components": [
+        { "name": "Engine", "minor": 3, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Transmission", "minor": 2, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Brakes", "minor": 4, "moderate": 3, "major": 2, "critical": 1 },
+        { "name": "Electrical", "minor": 5, "moderate": 4, "major": 2, "critical": 1 }
+      ]
+    },
+
+    {
+      "car_id": "CAR007",
+      "car_name": "Kia Seltos 2024",
+      "company": "Kia",
+      "resolved": 4,
+      "avg_resolution": "4.1d",
+      "components": [
+        { "name": "Engine", "minor": 3, "moderate": 2, "major": 2, "critical": 1 },
+        { "name": "Transmission", "minor": 1, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Brakes", "minor": 4, "moderate": 3, "major": 2, "critical": 1 },
+        { "name": "Electrical", "minor": 6, "moderate": 5, "major": 2, "critical": 1 }
+      ]
+    },
+
+    {
+      "car_id": "CAR008",
+      "car_name": "Maruti Brezza",
+      "company": "Maruti",
+      "resolved": 7,
+      "avg_resolution": "3.5d",
+      "components": [
+        { "name": "Engine", "minor": 2, "moderate": 1, "major": 0, "critical": 0 },
+        { "name": "Transmission", "minor": 1, "moderate": 0, "major": 0, "critical": 0 },
+        { "name": "Brakes", "minor": 3, "moderate": 1, "major": 0, "critical": 0 },
+        { "name": "Electrical", "minor": 4, "moderate": 2, "major": 0, "critical": 0 }
+      ]
+    },
+
+    {
+      "car_id": "CAR009",
+      "car_name": "Honda City 2024",
+      "company": "Honda",
+      "resolved": 2,
+      "avg_resolution": "5.1d",
+      "components": [
+        { "name": "Engine", "minor": 1, "moderate": 2, "major": 2, "critical": 1 },
+        { "name": "Transmission", "minor": 2, "moderate": 2, "major": 1, "critical": 1 },
+        { "name": "Brakes", "minor": 3, "moderate": 3, "major": 1, "critical": 0 },
+        { "name": "Electrical", "minor": 5, "moderate": 4, "major": 2, "critical": 1 }
+      ]
+    },
+
+    {
+      "car_id": "CAR010",
+      "car_name": "Toyota Fortuner",
+      "company": "Toyota",
+      "resolved": 8,
+      "avg_resolution": "2.9d",
+      "components": [
+        { "name": "Engine", "minor": 2, "moderate": 1, "major": 0, "critical": 0 },
+        { "name": "Transmission", "minor": 1, "moderate": 1, "major": 0, "critical": 0 },
+        { "name": "Brakes", "minor": 4, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Electrical", "minor": 3, "moderate": 2, "major": 1, "critical": 0 }
+      ]
+    },
+
+    {
+      "car_id": "CAR011",
+      "car_name": "Skoda Slavia",
+      "company": "Skoda",
+      "resolved": 3,
+      "avg_resolution": "4.3d",
+      "components": [
+        { "name": "Engine", "minor": 3, "moderate": 3, "major": 2, "critical": 1 },
+        { "name": "Transmission", "minor": 2, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Brakes", "minor": 4, "moderate": 4, "major": 2, "critical": 1 },
+        { "name": "Electrical", "minor": 6, "moderate": 5, "major": 3, "critical": 1 }
+      ]
+    },
+
+    {
+      "car_id": "CAR012",
+      "car_name": "Volkswagen Virtus",
+      "company": "Volkswagen",
+      "resolved": 4,
+      "avg_resolution": "4.0d",
+      "components": [
+        { "name": "Engine", "minor": 2, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Transmission", "minor": 1, "moderate": 1, "major": 1, "critical": 0 },
+        { "name": "Brakes", "minor": 3, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Electrical", "minor": 5, "moderate": 3, "major": 1, "critical": 0 }
+      ]
+    },
+
+    {
+      "car_id": "CAR013",
+      "car_name": "MG Hector",
+      "company": "MG",
+      "resolved": 5,
+      "avg_resolution": "3.7d",
+      "components": [
+        { "name": "Engine", "minor": 4, "moderate": 3, "major": 1, "critical": 0 },
+        { "name": "Transmission", "minor": 2, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Brakes", "minor": 5, "moderate": 3, "major": 2, "critical": 1 },
+        { "name": "Electrical", "minor": 6, "moderate": 4, "major": 2, "critical": 1 }
+      ]
+    },
+
+    {
+      "car_id": "CAR014",
+      "car_name": "Nissan Magnite",
+      "company": "Nissan",
+      "resolved": 4,
+      "avg_resolution": "4.2d",
+      "components": [
+        { "name": "Engine", "minor": 2, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Transmission", "minor": 1, "moderate": 1, "major": 0, "critical": 0 },
+        { "name": "Brakes", "minor": 3, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Electrical", "minor": 4, "moderate": 3, "major": 1, "critical": 0 }
+      ]
+    },
+
+    {
+      "car_id": "CAR015",
+      "car_name": "Renault Kiger",
+      "company": "Renault",
+      "resolved": 3,
+      "avg_resolution": "4.6d",
+      "components": [
+        { "name": "Engine", "minor": 2, "moderate": 3, "major": 1, "critical": 0 },
+        { "name": "Transmission", "minor": 1, "moderate": 1, "major": 1, "critical": 0 },
+        { "name": "Brakes", "minor": 3, "moderate": 2, "major": 1, "critical": 0 },
+        { "name": "Electrical", "minor": 5, "moderate": 4, "major": 2, "critical": 1 }
+      ]
+    }
+  ]
+}

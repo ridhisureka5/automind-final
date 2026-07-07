@@ -1,0 +1,34 @@
+{
+  "alerts": [
+    {
+      "car_name": "Hyundai Creta 2024",
+      "vin": "VIN-HY-001",
+      "issue": "Engine Overheating",
+      "level": "critical"
+    },
+    {
+      "car_name": "Tata Nexon 2023",
+      "vin": "VIN-TA-002",
+      "issue": "Brake Sensor Fault",
+      "level": "high"
+    },
+    {
+      "car_name": "Mahindra XUV700",
+      "vin": "VIN-MA-003",
+      "issue": "Transmission Slippage",
+      "level": "medium"
+    },
+    {
+      "car_name": "Kia Seltos 2024",
+      "vin": "VIN-KI-004",
+      "issue": "Battery Voltage Drop",
+      "level": "medium"
+    },
+    {
+      "car_name": "Toyota Fortuner",
+      "vin": "VIN-TO-005",
+      "issue": "Oil Pressure Warning",
+      "level": "high"
+    }
+  ]
+}
